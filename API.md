@@ -1,4 +1,4 @@
-# API MANTIĞI (REST & JSON TeEMELLERİ)
+# API MANTIĞI (REST & JSON TEMELLERİ)
 
 ## API Nedir ve Neden Var?
 
